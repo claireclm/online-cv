@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Claire Montgomery
-    tagline: Senior Product/Portfolio Manager
+    tagline: Senior Product & Portfolio Manager
     avatar: profile-claire.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -115,7 +115,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-- role: Engineer
+    - role: Engineer
       time: 2000 - 2002
       company: CardBase Technology, Belfast
       details: |
@@ -141,7 +141,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title:OPC Enterprise
+      - title: OPC Enterprise
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
