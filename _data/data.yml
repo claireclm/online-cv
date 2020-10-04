@@ -92,29 +92,26 @@ education:
       university: Queens University Belfast
       time: 1995 - 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Completed modules in:
+          - Economics
+          - Accounting
+          - Law
 experiences:
     - role: Senior Delivery Lead
       time: 2016 - Present
       company: Liberty Information Technology, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        During the last 4 years, I have grown a department from 30 to 60 people
+        focusing on the following areas
+          - Business Impact
+          - Cost Optimisation
+          - Engineering Excellence
+          - Career development for engineers and leaders
+          - Change Catalyst in our agile transformation
+          Outside of the LIT department and within the parent organisation, Liberty Mutual,
+          I have been working on promoting and creating techniques to aid reuse
+          across the Global organisation.
+          
     - role: Project Manager
       time: 2012 - 2016
       company: Liberty Information Technology, Belfast
