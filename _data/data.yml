@@ -183,22 +183,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Product Management
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Delivery Techniques
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Cost Tracking, Forecasting and Optimisation
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Design Principles and Techniques
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Engineering Practices
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Career and Team Coaching
         level: 60%
 
 footer: >
