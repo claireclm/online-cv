@@ -81,13 +81,13 @@ education:
       university: Queens University Belfast
       time: 1999 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Graduated with Distinction after completing modules including:
+          - Coding - Java
+          - Web Development
+          - Systems
+          - Databases
+          - Design
+          - Testing
     - degree: BSc in Accounting and Economics
       university: Queens University Belfast
       time: 1995 - 1999
