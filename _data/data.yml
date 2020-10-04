@@ -44,6 +44,9 @@ sidebar:
 
       - item: Engineering
         link:
+        
+      - item: Reading
+        link: Delivery, Engineering Practices, Product Management, Cloud Engineering, AI and ML
 
 career-profile:
     title: Career Profile
@@ -165,11 +168,11 @@ projects:
 
       - title: Online Policy Change 
         link: "#"
-        tagline: "Mult-million dollar initiative to enable digital customers to change their policies online"
+        tagline: "Mult-million dollar program to enable digital customers to change their policies online"
 
       - title: Digital Sales
         link: "#"
-        tagline: "Online application to allow LM customers to buy Auto and Property insurance online"
+        tagline: "Digital application to allow LM customers to buy Auto and Property insurance online"
 
       - title: Account Services Toolbox
         link: "#"
