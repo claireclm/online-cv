@@ -106,45 +106,51 @@ experiences:
           - Business Impact
           - Cost Optimisation
           - Engineering Excellence
+          - Product Management
+          - Delivery Techniques
           - Career development for engineers and leaders
           - Change Catalyst in our agile transformation
-          Outside of the LIT department and within the parent organisation, Liberty Mutual,
-          I have been working on promoting and creating techniques to aid reuse
-          across the Global organisation.
+         
+         Within the parent organisation, Liberty Mutual, a Fortune 100 Company,
+         I have been working on promoting and creating techniques to aid reuse
+         across the Global organisation.
           
     - role: Project Manager
       time: 2012 - 2016
       company: Liberty Information Technology, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        During my time as a Project Manager, I managed 20+ $million dollar
+        programs, focusing on:
+          - Business Impact
+          - Cost Forecasting and Tracking
+          - Risk Management
+          - Line Management of 20 Engineers and Product Designers
+          - Facilitating architecture discussions and agreement across multiple 
+            areas of architecture to drive overall architecture
+            
     - role: Principal Software Engineer
       time: 2002 - 2012
       company: Liberty Information Technology, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Technical lead on multiple projects, starting with 1 team up to multiple teams.
+        Working on full lifecycle from
+          - Facilitating requirements gathering session
+          - Design - using a wide range of design patterns
+          - Coding - predominatly Java, JDBC, and Relational Databases
+          - Testing
+          - Release
     - role: Engineer
       time: 2000 - 2002
       company: CardBase Technology, Belfast
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Proved myself quickly to be a key member of the team, by being able to 
+        pick up a Java Spring App working out the build pipeline and changing and 
+        presenting to the CIO within 2 weeks of joining the company.  This led to me
+        continuing to work for CardBase as a Java Contractor in Dun Laoghaire when
+        they closed the Belfast Office.  In this timeframe, I travelled to VISA
+        Cash offices in San Francisco and elicited Use Cases, before I led the development of
+        a Card application which used Thales 7100 for security.
+ 
 projects:
     title: Projects
     intro: >
