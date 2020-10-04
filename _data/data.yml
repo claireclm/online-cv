@@ -54,23 +54,27 @@ career-profile:
       Started in Liberty IT in 2002 progressing very successfully through the 
       technical roles into a senior technical position. After 10 years of being 
       a technical lead on a number of large projects, I made the decision to continue
-      my career down a leadership path. I saw huge potential for me to influence, 
-      coach and drive positive change in our leadership of projects, products and teams.
-      I have pushed through improvements such as the adoption of Key Performance Indicator 
-      (KPI) Driven Development and Behaviour Driven Development(BDD) on my teams. In each 
-      of my teams I have championed and coached the adoption of core agile delivery 
-      lifecycles/practices such as Scrum, Kanban, exploratory testing and continuous delivery. 
+      my career down a leadership path. 
+      
+      I saw huge potential for me to influence, coach and drive positive change in our 
+      leadership of projects, products and teams. I have pushed through improvements such 
+      as the adoption of Key Performance Indicator KPI) Driven Development and 
+      Behaviour Driven Development(BDD) on my teams. In each of my teams I have 
+      championed and coached the adoption of core agile delivery lifecycles/practices such 
+      as Scrum, Kanban, exploratory testing and continuous delivery. 
       Championing XP practices on my teams. I use techniques like impact mapping to ensure 
       teams are delivering maximum impact to customers and Event Storming to help teams 
       improve business processes, remove blockers and break systems down into domains.
+      
       I am currently leading a portfolio of teams developing Cloud Architectures, AWS, 
       Docker, Kafka and Spring Cloud, my teams are modernizing complex monolith 
       applications into event driven micro service architectures.
       Fully support a learning culture on teams, promoting innovation sprints, 
       training sprints (entire team training together). Teams working to get AWS 
       certifications together. I have learned to adapt my leadership styles based on 
-      the portfolio of teams experience, capabilities and the context we are operating in. 
-      I also have experience of all aspects of large scale portfolio management, costs,
+      the portfolio of teams experience, capabilities and the context we are operating in.
+      
+      I have experience of all aspects of large scale portfolio management, costs,
       forecasting and risk management.
 education:
     - degree: MSc in Computer Science
