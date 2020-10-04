@@ -154,33 +154,30 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Digital Transformation
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Teams are at the forefront of building Digital Solutions for LM Customers"
 
       - title: ADIL
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A Photo Inspection Product to significantly reduce costs and improve Customer Experience."
 
-      - title: OPC Enterprise
+      - title: Online Policy Change 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Mult-million dollar initiative to enable digital customers to change their policies online"
 
-      - title: CF Internet
+      - title: Digital Sales
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Online application to allow LM customers to buy Auto and Property insurance online"
 
-      - title: Digital Transformation
+      - title: Account Services Toolbox
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "An application that helped LM represntatives manage small business account holders."
 
-      - title: Delta
+      - title: Card Cash
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A VISA Cash application that allowed users to load money onto their cards"
 
 skills:
     title: Skills &amp; Proficiency
